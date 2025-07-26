@@ -1,8 +1,0 @@
-chromadb
-sentence-transformers
-requests
-numpy
-pandas
-streamlit
-flask
-twilio
